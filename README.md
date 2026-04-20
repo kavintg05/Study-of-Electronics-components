@@ -44,6 +44,7 @@ Electronic components are available in different packages, such as through-hole 
 
 
 # EXPECTED OUTPUT:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/936f8429-fb39-4a34-af1e-df9a20b80834" />
 
  
 # RESULT:
